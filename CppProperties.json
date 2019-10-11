@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "inheritEnvironments": [
+        "msvc_x86"
+      ],
+      "name": "x86-Debug",
+      "includePath": [
+        "${workspaceRoot}\\..\\..\\..\\Desktop\\COOMP TROUBLESHOOTING\\personal assignments\\graphics\\OpenGl\\glut-3.7.6-bin",
+        "${workspaceRoot}\\..\\..\\..\\Desktop\\COOMP TROUBLESHOOTING\\personal assignments\\graphics\\OpenGl\\glut-3.7.6-bin",
+        "${env.INCLUDE}",
+        "${workspaceRoot}\\**"
+      ],
+      "defines": [
+        "WIN32",
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "intelliSenseMode": "windows-msvc-x86"
+    }
+  ]
+}
